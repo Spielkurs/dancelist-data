@@ -1,0 +1,20 @@
+# yaml-language-server: $schema=../../events_schema.json
+events:
+  - name: Bal Folk Nacht - Torgau
+    details: All welcome of any level of experience for great dancing to amazing gender-free calling and brilliant music.
+    links:
+      - "https://www.spielkurs.de/#balfolk/"
+      - "https://www.facebook.com/events/942088323445039/"
+    start_date: 2023-04-29T20:00:00+01:00
+    end_date: 2023-04-30T02:00:00+01:00
+    country: Germany
+    city: Torgau
+    styles: [balfolk]
+    workshop: true
+    social: true
+    bands:
+      - Naragonia Trio
+      - Topette!!
+      - Decombel-Van Mierlo
+    price: €18-€25
+    organisation: Spielkurs Torgau
